@@ -1,18 +1,21 @@
-# IPL EDA Project 🏏📊
+ 🏏 IPL 2008–2019 Exploratory Data Analysis
 
-This project performs Exploratory Data Analysis (EDA) on IPL matches and ball-by-ball data using pandas and Jupyter Notebook.
+This project explores historical IPL data using Python and pandas to uncover trends in player performance, match outcomes, and team patterns.
 
-# Key Insights:
-- Top run-scorers in IPL
-- Leading wicket-takers
-- Toss winners vs match winners
-- Most active cities and seasons
-- Player strike rates and performance trends
+📌 Key Insights
+- Top 5 run scorers and wicket takers
+- Matches hosted per season and city
+- Toss impact on match results
+- Most common dismissal types
 
-# Tools Used:
+ 📊 Tools Used
 - Python
 - pandas
+- matplotlib
+- seaborn
 - Jupyter Notebook
-- GitHub
 
-📂 Dataset Source: [Kaggle IPL Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+📂 Dataset
+- Source: [Kaggle IPL Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+
+> Project by Vishal Kotkar | GitHub: [https://github.com/adventurecodeing]
